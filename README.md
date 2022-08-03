@@ -1,4 +1,6 @@
-# Introduction
+# A Machine Learning Model trained on a High-Throughput Antibacterial Screen Increases the Hit Rate of Drug Discovery
+
+## Introduction
 This repository provides trained weights and materials associated with the manuscript "A Machine Learning Model trained on a High-Throughput Antibacterial Screen Increases the Hit Rate of Drug Discovery".
 
 The code of directed message passing neural network (D-MPNN) used in this study was implemented in the open-source package [Chemprop](https://github.com/chemprop/chemprop), which is an effective graph neural network for molecular property prediction. The introduction, implementation, and application of D-MPNN can be found in below links:
@@ -6,7 +8,7 @@ The code of directed message passing neural network (D-MPNN) used in this study 
 - The original code: https://github.com/chemprop/chemprop
 - Stokes et al (2020). A Deep Learning Approach to Antibiotic Discovery. Cell, 180(4), 688–702.e13. https://doi.org/10.1016/j.cell.2020.01.021
 
-# Result summary
+## Result summary
 ### Classification 
 > Random split
 
