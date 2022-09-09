@@ -1,0 +1,2 @@
+Active 0: 99.13%, 1: 0.87%
+Total size = 29,537 | train size = 23,629 | val size = 2,953 | test size = 2,955
